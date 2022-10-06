@@ -28,7 +28,8 @@ Altana take home assignment
 
 ### Executing program
 
-* the "altana" parquet file is already included but you may execute the altana_ingest.py file to read the zip and create/update the parquet file
+* First ensure that the cnpj-qsa copy.zip file is in the same directory as the ingest / query python files
+* Run the Ingest file to process the zip folder and create the parquet file
 * execute the query.py file and follow the instructions prompted on the screen
 
 
